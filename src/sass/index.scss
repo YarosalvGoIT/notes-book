@@ -1,2 +1,8 @@
+//BASE
+@import './base/reset';
 @import './common';
-@import './example';
+
+//Components
+@import './components/tasks-list';
+@import './components/container';
+@import './components/header';
